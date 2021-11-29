@@ -4,7 +4,7 @@ content:url( DISCORD URL IMAGE LINK FOR IDLE PNG/GIF );
 height:auto !important;
 width:auto !important;
 border-radius:0% !important;
-filter: brightness(100%);
+filter: brightness(65%);
 }
 
 .speaking {
